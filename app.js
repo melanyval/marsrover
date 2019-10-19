@@ -60,9 +60,6 @@ var rover = {
   
     // console.log("Rover current pos: [" + rover.x + "," + rover.y + "]");
   
-    var currentX = rover.x;
-    var currentY = rover.y;
-  
   
     switch (rover.direction) {
       case 'N':
